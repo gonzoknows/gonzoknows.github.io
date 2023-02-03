@@ -52,3 +52,6 @@ According to the Poe AI bot Sage, the following disclaimer is provided:
 
 ![Poe AI Bots](/assets/img/poe%20ai/sage%20profile.jpeg)
 
+## More Info
+
+This was a preliminary look at Poe AI. Due to limited information available online, further exploration will be covered in upcoming Youtube shorts and posts on the website. To learn more about Poe AI, be sure to check the website sidebar and subscribe to the Youtube channel. The website also has RSS support for those who want to connect with a news reader. If you are part of a news team and seeking an invite to Poe AI, a communication line will be set up soon.
