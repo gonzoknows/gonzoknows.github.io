@@ -44,6 +44,8 @@ In Poe AI, social profiles can be accessed from the homepage sidebar by creating
 ![Poe AI Social Profiles](/assets/img/poe%20ai/username.png)
 
 ## Poe AI Bots
+Poe AI currently has three bots: Sage, Dragonfly, and Heron. The data for Sage and Dragonfly is sourced from OpenAI, while Heron's data is sourced from Anthropic P.B.C.
+
 According to the Poe AI bot Sage, the following disclaimer is provided:
 
 "This bot may make incorrect statements. It does not have knowledge of events after 2021."
