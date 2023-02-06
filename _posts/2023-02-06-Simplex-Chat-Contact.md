@@ -27,7 +27,7 @@ Personally, I chose SimpleX Chat for mainly these two reasons:
 
 - Email: SimpleX Chat also doesn't require an email, and the reasoning is the same as for phone numbers.
 
-These two requirements were the main factors in my decision to choose SimpleX Chat over other means of communication for a website. It eliminates options like Signal, email, etc. Although it doesn't eliminate the Messenger session, I personally didn't want a messenger that looks like a hacker app with its green accent colors. For my threat model, it doesn't matter, as I have my socials linked on this page, etc. SimpleX Chat looked like the simple contact method of choice, as it supports both Android and iOS, which are all I need.
+These two requirements were the main factors in my decision to choose SimpleX Chat over other means of communication for a website. It eliminates options like Signal, email, etc. Although it doesn't eliminate the Messenger Session, I personally didn't want a messenger that looks like a hacker app with its green accent colors. For my threat model, it doesn't matter, as I have my socials linked on this page, etc. SimpleX Chat looked like the simple contact method of choice, as it supports both Android and iOS, which are all I need.
 
 SimpleX Chat is likely to stay as it is very convenient for me. It allows my account to automatically accept message requests, meaning I don't have to manually accept new contacts to send me a message. Several people have told me they found it easy to reach out to me via this encrypted messaging app.
 
