@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 > # Gonzo Knows - A minimal, responsive, and powerful personal website designed to educate others.
