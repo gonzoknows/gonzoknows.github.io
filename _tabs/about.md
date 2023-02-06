@@ -13,13 +13,13 @@ order: 4
 
 ## My Personal Links:
 
-**Socials**
+### **Socials**
 
 - [Snapchat](https://www.snapchat.com/add/jacobggonzales)
 
 - [Instagram](https://www.instagram.com/jacobgonzales20/)
 
-**Extra Works**
+### **Extra Works**
 
 - [Photo Dump (Licensed Under CC BY 4.0)](https://drive.google.com/drive/folders/1Li7j6qoiVvowXZtEbYRDx5TxOIDbgeUO) 
 
