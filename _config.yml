@@ -111,9 +111,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: gonzoknows/gonzoknows.github.io             # <gh-username>/<repo>
-    repo_id: R_kgDOI4I4YA
+    repo_id: R_kgDOI6QVaw
     category: Announcements
-    category_id: DIC_kwDOI4I4YM4CT6oE
+    category_id: DIC_kwDOI6QVa84CUBbQ
     mapping:           # optional, default to 'pathname'
     input_position: top    # optional, default to 'bottom'
     lang:              # optional, default to the value of `site.lang`
