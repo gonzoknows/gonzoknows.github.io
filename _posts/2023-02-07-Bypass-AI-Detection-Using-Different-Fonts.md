@@ -28,10 +28,11 @@ Here's a short, simple guide to bypassing many popular ChatGPT detection softwar
 
     ![GPTZero output](/assets/img/bypass%20gptzero/quantum%20detected.png)
 
-2. Navigate to [https://www.fontchanger.net/](https://www.fontchanger.net/) with your copied AI generated text and paste it into the white text box
+2. Navigate to [https://www.fontchanger.net/](https://www.fontchanger.net/) with your copied AI generated text and `paste it into the white text box`
     ![Font Changer Text Box](/assets/img/font%20changer/font%20changer%20text%20box.png)
+    `Note: If you are getting a lot of popup ad's consider installing` [uBlock Origin](https://ublockorigin.com/)
 
-3. Copy any of the fonts listed in Common Fonts
+3. Copy any of the fonts listed in `Common Fonts`
     ![Font Changer (Common Fonts Section)](/assets/img/font%20changer/common%20fonts.png)
 
 4. Lastly, test your newly font changed text into any AI detection software of your choice, for my guide I am using [GPTZero](https://gptzero.me/)
