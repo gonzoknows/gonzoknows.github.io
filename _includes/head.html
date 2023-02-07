@@ -112,7 +112,7 @@
     <!-- {% if jekyll.environment == 'production' and site.countapi %} -->
     <script>
       var xhr = new XMLHttpRequest();
-      xhr.open("GET", "https://api.countapi.xyz/hit/gonzoknows.com/:PATHNAME:");
+      xhr.open("GET", "https://api.countapi.xyz/hit/gonzoknows.com/visits");
       xhr.responseType = "json";
       xhr.onload = function() {
         document.getElementById('page_visits').textContent = this.response.value;
