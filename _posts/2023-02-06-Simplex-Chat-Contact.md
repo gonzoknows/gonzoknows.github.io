@@ -1,3 +1,4 @@
+<div id="visits">...</div>
 ---
 title: Get in touch with SimpleX Chat!
 date: 2023-02-06 08:00:00 -0800
