@@ -12,6 +12,8 @@ GPTZero is a tool that uses certain characteristics of AI to identify when AI is
 ## Introduction
 Ever since GPTZero made headlines, I've tested the AI ChatGPT detection program to look for loopholes. I even created a [Python script](https://github.com/gonzoknows/GPTZero-Bypasser) to bypass this detection tool. Funny enough, all that's not needed, as all you need to bypass these popular AI detection software is an online font changer. 
 
+`Note: Technically these aren't different fonts but rather they are different characters, this works because computers distinguish characters of different styles differently, but we'll call it fonts cause it brings better SEO`
+
 ### GPTZero Limitations 
 In my honest opinion, GPTZero is a very easy tool for people to bypass. However, in reality, people don't even have to bypass it because it gives highly inaccurate results. It's shocking to me that educational institutions trust this tool at all.
 
