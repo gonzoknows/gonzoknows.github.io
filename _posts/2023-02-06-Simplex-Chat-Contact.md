@@ -41,7 +41,7 @@ I also came to realize that social media, such as Instagram, probably isn't the 
 
 ### What even is SimpleX Chat?
 So what is SimpleX Chat? 
-SimpleX Chat is very similar to the Signal messenger used by celebrities due to its strong security and encryption protocols, celebrities Katy Perry, Eminem, Angelina Jolie, and even my Accounting II professor all use signal. SimpleX Chat is so similar to Signal, it even uses the same exact encryption standards as the Signal app, called [The Double Ratchet Algorithm](https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm). 
+SimpleX Chat is very similar to the Signal messenger used by celebrities due to its strong security and encryption protocols, celebrities Katy Perry, Eminem, Angelina Jolie, and even my Accounting II professor all use signal. SimpleX Chat is so similar to Signal, it even uses the same exact encryption standards called [The Double Ratchet Algorithm](https://en.wikipedia.org/wiki/Double_Ratchet_Algorithm). 
 
 SimpleX Chat brings mostly all the security features of Signal, all without needing a personal phone number. This is the reason I kinda dislike Signal for none personal communication is due to the phone number requirement and I don't have the budget for a second phone number. 
 
