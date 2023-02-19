@@ -29,11 +29,11 @@ With these ad blockers installed, you can enjoy an uninterrupted YouTube experie
 
 <br>
 
-**What is uBlock Origin and how does it work to block ads, trackers, and other unwanted content on the web?**
+**What is uBlock Origin, and how does it work to block ads, trackers, and other unwanted content on the web?**
 
 uBlock Origin is a free and open-source ad blocker that is designed to block ads, trackers, and other types of unwanted content on the web. It is a lightweight and efficient extension that does not consume a lot of resources and does not slow down your browsing experience. uBlock Origin blocks ads by using filters that are based on the Adblock Plus filter syntax, and it allows users to create their own custom filters if they wish.
 
-**What is SponsorBlock and how does it work to block sponsored content on YouTube and other websites?**
+**What is SponsorBlock, and how does it work to block sponsored content on YouTube and other websites?**
 
 SponsorBlock is a free and open-source extension that is specifically designed for blocking sponsored content on YouTube. It works by analyzing the comments section of a YouTube video and blocking any sponsored messages or links that are posted there. It also allows users to block specific channels or individual videos, and it has a feature that allows users to block sponsored content on other websites as well.
 

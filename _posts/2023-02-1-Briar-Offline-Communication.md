@@ -34,7 +34,7 @@ While Briar is mainly designed for activists, journalists, and anyone else who n
 - Search and Rescue
 - Concrete Buildings 
 - Underground Buildings 
-- Saving Data or Using Less Data
+- Saving Data or Using Fewer Amounts of Data
 
 ## Limitations
 Currently, as of writing this post, Briar is a great instant messaging app... if you are running an android device. It does many things right such as reliability, Briar will work no matter if you have an internet connection or not which is huge for communication reliability. Though it doesn't come with its downsides listed below
@@ -42,7 +42,7 @@ Currently, as of writing this post, Briar is a great instant messaging app... if
 - Features:
     - Messaging Only
         - No Audio Calls
-        - No Video Calls/Facetime
+        - No Video Calls/FaceTime
 
 - Platform Support:
     - Android (Windows & Linux in beta)
@@ -61,5 +61,5 @@ Short Answer: As mentioned above, Briar doesn't support Apple's mobile platform 
 "iOS feasibility study (#2282)" - [https://code.briarproject.org/briar/briar/-/issues/2282](https://code.briarproject.org/briar/briar/-/issues/2282)
 
 ### Desktop
-Briar is currently in beta phase on Windows and Linux with MacOS support soon to come. 
-If you plan on using the beta release which can be downloaded [here](https://briarproject.org/download-briar-desktop/) be sure to expect bugs.
+Briar is currently in beta phase on Windows and Linux with macOS support soon to come. 
+If you plan on using the beta release which can be downloaded [here,](https://briarproject.org/download-briar-desktop/) be sure to expect bugs.

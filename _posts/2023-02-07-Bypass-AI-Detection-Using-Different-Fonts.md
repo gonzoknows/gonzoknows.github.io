@@ -17,7 +17,7 @@ Ever since GPTZero made headlines, I've tested the AI ChatGPT detection program 
 ### GPTZero Limitations 
 In my honest opinion, GPTZero is a very easy tool for people to bypass. However, in reality, people don't even have to bypass it because it gives highly inaccurate results. It's shocking to me that educational institutions trust this tool at all.
 
-## Step By Step Guide
+## Step-By-Step Guide
 Here's a short, simple guide to bypassing many popular ChatGPT detection software programs using a free online font changer. For this guide, I'll demonstrate it against [GPTZero](https://gptzero.me/), as it's the most popular tool among them all. 
 
 1. Generate your text with ChatGPT then `copy` your generated text, for my guide I'll be using the text below

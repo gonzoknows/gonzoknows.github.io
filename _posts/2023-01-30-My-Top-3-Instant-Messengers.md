@@ -10,13 +10,13 @@ If you live in the US, you probably use an Apple product, as Apple dominates the
 
 ![iOS Vs Android Map](/assets/img/instant%20messengers/map.jpg)
 
-Competition makes cross-platform instant messaging challenging, mainly due to Apple's reluctance to open its iOS software to new messaging protocols. Although these protocols are more secure, Apple prioritizes its US market dominance over security. As a result, many people opt for social media apps like Snapchat, Instagram, or Facebook (now called Meta) for ease of communication, but these apps lack encryption and are not as secure as end to end encrypted instant messaging apps. A list of insecure apps is provided below. 
+Competition makes cross-platform instant messaging challenging, mainly due to Apple's reluctance to open its iOS software to new messaging protocols. Although these protocols are more secure, Apple prioritizes its US market dominance over security. As a result, many people opt for social media apps like Snapchat, Instagram, or Facebook (now called Meta) for ease of communication, but these apps lack encryption and are not as secure as end-to-end encrypted instant messaging apps. A list of insecure apps is provided below. 
 
 ### Insecure Social Medias:
 Why?
 
 The primary purpose of social media is to generate revenue through advertisements, so why would they prioritize keeping your personal messages secure when they could sell them for profit? Just search for any social media platform followed by "data breach" or "privacy court case" for evidence.
-- Tiktok
+- TikTok
 - Discord 
 - Snapchat
 - Facebook
@@ -72,7 +72,7 @@ On October 28th, 2021, Signal received a grand jury subpoena for Signal user dat
 ### Pros:
 - Most secure & private messenger, but not practical
 - Encrypted messaging & forums
-- Offline messaging via Bluetooth & WiFi
+- Offline messaging via Bluetooth & Wi-Fi
 - Messages stored on device, not in cloud
 
 ### Cons:

@@ -9,13 +9,13 @@ tags: [mullvad, proton, vpn] #tags should always be lowercase
 ### ProtonVPN
 [Website](https://protonvpn.com/)
 
-Proton AG, a Swiss-based VPN provider established in 2016, is a formidable player in the VPN industry. With a free basic tier and a feature-rich premium option, it stands out for its efficient iOS and MacOS client. This makes it the top choice for Apple devices. The company also provides a student discount.
+Proton AG, a Swiss-based VPN provider established in 2016, is a formidable player in the VPN industry. With a free basic tier and a feature-rich premium option, it stands out for its efficient iOS and macOS client. This makes it the top choice for Apple devices. The company also provides a student discount.
 
 ## The Best VPN for Linux Devices 
 ### Mullvad VPN
 [Website](https://mullvad.net/)
 
-Mullvad is a low-cost, fast VPN with a strong emphasis on transparency and security. Established in 2009 and based in Sweden, it doesn't offer a free trial. Ideal for users like me who don't use Windows or Mac OS, Mullvad has the best Linux client among VPN providers. If you're a Linux user, I highly recommend choosing Mullvad over its competitors as they prioritize Linux support.
+Mullvad is a low-cost, fast VPN with a strong emphasis on transparency and security. Established in 2009 and based in Sweden, it doesn't offer a free trial. Ideal for users like me who don't use Windows or macOS, Mullvad has the best Linux client among VPN providers. If you're a Linux user, I highly recommend choosing Mullvad over its competitors as they prioritize Linux support.
 
 ## Honorable Mention
 ### IVPN 
@@ -29,4 +29,5 @@ based on [Privacy Guides](https://www.privacyguides.org/vpn/#our-criteria) crite
 ## Student Discounts 
 
 ### ProtonVPN
+
 ProtonVPN offers a student discount upon filling out their support form found [here](https://proton.me/support/contact)

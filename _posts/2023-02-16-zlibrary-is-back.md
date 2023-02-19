@@ -5,9 +5,9 @@ categories: [College Life Hacks]
 tags: [zlibrary, ebook, textbooks]                   #tags should always be lowercase
 ---
 
-## zlibrary returns to the clearweb
+## zlibrary returns to the clear web
 
-“We have great news for you – Z-Library is back on the Clearnet again! To access it, follow this link singlelogin.me and use your regular login credentials.” - zlibrary
+“We have great news for you – Z-Library is back on the Clearnet again! To access it, follow this [link](https://singlelogin.me/) and use your regular login credentials.” - zlibrary
 
 ### Personal domains
 
@@ -21,8 +21,8 @@ In theory every user of zlibrary will now get access to their own personal domai
 
 Accessing zlibrary is just as easy as it used to be, all a user has to do is navigate to their website singlelogin.me and sign up for an account. Once you have signed up for an account, you will receive a confirmation email to your email you have signed up with. After confirming the email, you will get access to zlibrary's massive collection of public domain books and more!
 
-`Note - when signing up, your personal email isn't required. It's not one I recommend using anyway. To avoid using your personal email, you can use any temporary email service on the web by searching "temp email" or consider getting a membership with Simplelogin which I personally use` [Simplelogin](https://simplelogin.io?slref=jacobgonzales) -  Receive and send emails anonymously. With email aliases, you can be anonymous online and protect your inbox against spams and phishing.
+`Note - when signing up, your personal email isn't required. It's not one I recommend using anyway. To avoid using your personal email, you can use any temporary email service on the web by searching "temp email" or consider getting a membership with Simplelogin which I personally use` [Simplelogin](https://simplelogin.io?slref=jacobgonzales) - Receive and send emails anonymously. With email aliases, you can be anonymous online and protect your inbox against spams and phishing.
 
-### Youtube Guide
+### YouTube Guide
 
 [![zlibrary is back!](https://img.youtube.com/vi/JFfSAbFMd7A/0.jpg)](https://www.youtube.com/watch?v=JFfSAbFMd7A "how to access zlibrary from the clearweb")

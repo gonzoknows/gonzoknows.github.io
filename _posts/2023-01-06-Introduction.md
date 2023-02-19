@@ -19,6 +19,6 @@ My website offers a range of features, including:
 
 - Automatic switching between dark and light mode, compatible with Apple devices
 - Advanced in-text search engine for precise results
-- Localized comments, with free hosting provided by Github
+- Localized comments, with free hosting provided by GitHub
 - Atom Feeds, which are RSS feeds for apps
 - Social media integration, including the ability to share on Twitter, Facebook, Telegram, and by providing a link.

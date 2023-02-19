@@ -24,7 +24,7 @@ tags: [student, school, college]                   #tags should always be lowerc
 # LanguageTool - Checks Your Writing
 [Website](https://languagetool.org/)
 
-- LanguageTool’s multilingual grammar, style, and spell checker supports Libreoffice, Apache OpenOffice, Mircosoft Word, Ulysses, Mozilla Firefox, Mircosoft Edge and Google Chrome.
+- LanguageTool’s multilingual grammar, style, and spell checker supports Libreoffice, Apache OpenOffice, Microsoft Word, Ulysses, Mozilla Firefox, Microsoft Edge and Google Chrome.
 - Also, available as a standalone application. Supports about 20 languages (on different levels) and allows customization.
 
 <br>
@@ -38,7 +38,7 @@ tags: [student, school, college]                   #tags should always be lowerc
 
 - There are tools that already do this, but they’ve stagnated, become infested with ads, and charge you for features that should be free (especially for students).
 
-- If you’re a student, academic, or teacher, and you’re tired of the poor bibliography and citation tools out there, then you’re gonna love MyBib. MyBib’s autociter is the best and most accurate one out there, so you can create accurate citations automatically for books, journals, websites, and videos just by searching for a title or identifier (like a URL or ISBN).
+- If you’re a student, academic, or teacher, and you’re tired of the poor bibliography and citation tools out there, then you’re going to love MyBib. MyBib’s auto citations are the best and most accurate one out there, so you can create accurate citations automatically for books, journals, websites, and videos just by searching for a title or identifier (like a URL or ISBN).
 
 - You can also download your formatted bibliography in multiple different formats, or export it to be added in several other managers like Zotero or Mendeley.
 
