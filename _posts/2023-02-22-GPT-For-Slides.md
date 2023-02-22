@@ -1,11 +1,11 @@
 ---
-title: ChatGPT For Google Slides
+title: ChatGPT for Google Slides
 date: 2023-02-22 06:00:00 -0800
 categories: [College Life Hacks]
 tags: [chatgpt, slides, ai]                   #tags should always be lowercase
 ---
 
-## Generated Google Slides w/ AI
+## AI Generated Google Slides
 
 MagicSlides App is an AI-powered Google Slides extension that allows users to generate full Google Slide presentations with just two key pieces of information. Just provide title, Number of Slides and some additional text which you want included (optional) and click generate and done!
 
