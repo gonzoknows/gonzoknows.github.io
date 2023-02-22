@@ -1,7 +1,7 @@
 ---
 title: Poe AI (Invite Only) - First Look
 date: 2023-02-03 07:00:00 -0800
-categories: []
+categories: [Artificial Intelligence]
 tags: [poe, openai, ai]                   #tags should always be lowercase
 ---
 
