@@ -1,7 +1,7 @@
 ---
 title: The Fastest and Most Efficient Way to Download Large Books from Libgen using IPFS
 date: 2023-01-15 00:00:00 -0800
-categories: [College Life Hacks]
+categories: [College Life Hacks, Free Textbooks]
 tags: [libgen, ipfs, school] #tags should always be lowercase
 ---
 

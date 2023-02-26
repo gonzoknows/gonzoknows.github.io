@@ -1,7 +1,7 @@
 ---
 title: How to Summarize YouTube Video Transcripts with ChatGPT
 date: 2023-01-08 11:30:00 -0800
-categories: [College Life Hacks]
+categories: [College Life Hacks, AI]
 tags: [youtube, chatgpt, ai]                   #tags should always be lowercase
 ---
 

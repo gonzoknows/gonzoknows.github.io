@@ -1,7 +1,7 @@
 ---
 title: Bypassing GPT-Zero's ChatGPT Detection Program
 date: 2023-01-11 11:00:00 -0800
-categories: [College Life Hacks]
+categories: [Artificial Intelligence, AI Detection Bypasses]
 tags: [gptzero, chatgpt, ai]                   #tags should always be lowercase
 ---
 

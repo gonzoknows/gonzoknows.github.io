@@ -1,7 +1,7 @@
 ---
 title: GPTZero Case Study (Exploring False Positives)
 date: 2023-02-19 00:01:00 -0800
-categories: [Artificial Intelligence]
+categories: [Artificial Intelligence, AI Detection]
 tags: [plagiarism, gptzero, ai]                   #tags should always be lowercase
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Useful Links for Any Student 
 date: 2023-01-10 00:00:00 -0800
-categories: [College Life Hacks]
+categories: [College Life Hacks, First Day]
 tags: [student, school, college]                   #tags should always be lowercase
 ---
 

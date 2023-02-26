@@ -1,7 +1,7 @@
 ---
 title: zlibrary is back! 
 date: 2023-02-16 10:00:00 -0800
-categories: [College Life Hacks]
+categories: [College Life Hacks, Free Textbooks]
 tags: [zlibrary, ebook, textbooks]                   #tags should always be lowercase
 ---
 

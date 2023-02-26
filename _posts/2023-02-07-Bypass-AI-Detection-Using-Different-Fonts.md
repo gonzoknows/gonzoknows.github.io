@@ -1,7 +1,7 @@
 ---
 title: Bypassing ChatGPT Detection Programs Using Font Changers
 date: 2023-02-07 09:00:00 -0800
-categories: [College Life Hacks]
+categories: [Artificial Intelligence, AI Detection Bypasses]
 tags: [gptzero, chatgpt, ai]                   #tags should always be lowercase
 ---
 

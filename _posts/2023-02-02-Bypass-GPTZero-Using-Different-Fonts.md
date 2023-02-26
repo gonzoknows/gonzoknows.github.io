@@ -1,7 +1,7 @@
 ---
 title: Bypassing GPT-Zero's ChatGPT Detection Program Using Different Font Types
 date: 2023-02-02 17:00:00 -0800
-categories: [College Life Hacks]
+categories: [Artificial Intelligence, AI Detection Bypasses]
 tags: [gptzero, chatgpt, ai]                   #tags should always be lowercase
 ---
 

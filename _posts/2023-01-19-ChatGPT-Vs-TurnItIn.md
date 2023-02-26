@@ -1,7 +1,7 @@
 ---
 title: ChatGPT vs. Turnitin - Does the Turnitin Plagiarism Checker Detect ChatGPT?
 date: 2023-01-19 09:00:00 -0800
-categories: [College Life Hacks]
+categories: [Artificial Intelligence, AI Detection]
 tags: [chatgpt, turnitin, school] #tags should always be lowercase
 ---
 

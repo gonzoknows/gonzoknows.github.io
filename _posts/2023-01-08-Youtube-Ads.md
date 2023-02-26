@@ -1,7 +1,7 @@
 ---
 title: Top Two Extensions for an Ad-Free YouTube Experience
 date: 2023-01-08 23:05:00 -0800
-categories: []
+categories: [YouTube]
 tags: [youtube, ublock, sponsorblock]                   #tags should always be lowercase
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Utilizing Briar for Offline Communications
 date: 2023-02-1 05:00:00 -0800
-categories: []
+categories: [Uncategorized]
 tags: [briar, encryption, security] #tags should always be lowercase
 ---
 

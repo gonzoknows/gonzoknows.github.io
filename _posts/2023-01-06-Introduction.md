@@ -1,7 +1,7 @@
 ---
 title: Introduction
 date: 2023-01-06 11:00:00 -0800
-categories: []
+categories: [Uncategorized]
 tags: [introduction, intro, about]                   #tags should always be lowercase
 ---
 

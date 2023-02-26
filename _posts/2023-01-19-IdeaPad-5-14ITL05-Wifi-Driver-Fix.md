@@ -1,7 +1,7 @@
 ---
 title: How to Fix the WiFi Driver on a Lenovo Ideapad 5 (14ITL05) Running Windows 11 Using Another Laptop
 date: 2023-01-19 07:00:00 -0800
-categories: []
+categories: [Uncategorized]
 tags: [ideapad, lenovo, windows] #tags should always be lowercase
 ---
 

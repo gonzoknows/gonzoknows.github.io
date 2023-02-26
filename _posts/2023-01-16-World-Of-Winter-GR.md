@@ -1,7 +1,7 @@
 ---
 title: World of Winter Festival (Downtown Grand Rapids, Michigan)
 date: 2023-01-16 20:30:00 -0800
-categories: [Travel]
+categories: [Travel, Michigan]
 tags: [winter, michigan, travel] #tags should always be lowercase
 ---
 

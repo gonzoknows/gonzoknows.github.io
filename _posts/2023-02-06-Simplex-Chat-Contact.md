@@ -1,7 +1,7 @@
 ---
 title: Get in touch with SimpleX Chat!
 date: 2023-02-06 08:00:00 -0800
-categories: []
+categories: [Uncategorized]
 tags: [simplex, messenger, contact]                   #tags should always be lowercase
 pin: true
 ---

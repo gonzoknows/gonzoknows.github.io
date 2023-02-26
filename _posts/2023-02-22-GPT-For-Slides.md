@@ -1,7 +1,7 @@
 ---
 title: ChatGPT for Google Slides
 date: 2023-02-22 06:00:00 -0800
-categories: [College Life Hacks]
+categories: [College Life Hacks, AI]
 tags: [chatgpt, slides, ai]                   #tags should always be lowercase
 ---
 
