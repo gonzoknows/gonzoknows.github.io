@@ -1,0 +1,68 @@
+---
+title: Mastering the Art of Sitemaps - Your Guide to Better Website Navigation and SEO
+date: 2023-02-27 12:00:00 -0800
+categories: [Marketing, SEO]
+tags: [google, bing, sitemap]                   #tags should always be lowercase
+---
+
+## Sitemaps
+
+Sitemaps are files that contain information about pages, videos, images, and other types of content on a website. They serve as a blueprint of the website's structure and provide information to search engines like DuckDuckGo, Google, and Bing to help them crawl and index the site more efficiently. Sitemaps also provide additional information about the relationships between pages and which ones are most important. There are several types of sitemaps, with the XML format being the most versatile and widely supported. Basically, sitemaps are the navigation map for search engines. 
+
+### Why Do Sitemaps Matter?
+
+Sitemaps are an important aspect of SEO because they provide search engines with information about the structure and content of a website. By submitting a sitemap to search engines, website owners can ensure that all pages of their site are indexed and crawled by search engine bots, which can lead to improved visibility in search engine results pages (SERPs).
+
+Sitemaps also help search engines bots understand the hierarchy and relationships between pages on a website, which can help with the overall crawling and indexing process. This can be particularly important for larger sites or sites with complex navigation, as search engine bots may not be able to discover all pages through normal crawling methods alone.
+
+Additionally, sitemaps can provide additional information about the content on a website, such as the date of last modification, the frequency of updates, and alternate language versions of pages. This information can help search engines better understand the context and relevance of the content on a site, which can ultimately improve the site's ranking in search results. If you decide to not use sitemaps, do keep in mind that popular search engines might rank your site down in the SEO chain simply due to not having a sitemap submitted. 
+
+## Google Search Console Guide
+Uploading your sites, sitemap to Google's Search Console is rather easy. All you have to do is `navigate` to [https://search.google.com/search-console/welcome](https://search.google.com/search-console/welcome)
+
+1. Log in to your Google Search Console account. If you don't have an account yet, you can create one for free by following the instructions on the Google Search Console website.
+
+2. Once you're logged in, click on the website for which you want to submit a sitemap.
+
+3. In the left-hand menu, click on `"Sitemaps"`.
+
+4. Click on the `"Add/Test Sitemap"` button in the top right-hand corner.
+
+5. Enter the URL of your sitemap into the text box. Your sitemap URL should be in the format of `https://www.yourwebsite.com/sitemap.xml`.
+
+6. Click `"Submit"`. Google will now start to crawl your sitemap and index the pages on your website.
+
+By submitting your sitemap to Google Search Console, you can ensure that your website is being properly crawled and indexed by Google, which can help to improve your search engine rankings and visibility.
+
+## Bing Webmaster Tools Guide
+Uploading your sites, sitemap to Bing's Webmaster Tools is also rather easy. All you have to do is `navigate` to [https://www.bing.com/webmasters/about](https://www.bing.com/webmasters/about)
+
+1. Log in using your Microsoft account.
+
+    `Note, if you have a Google's Search Console account and the sitemap is submitted on Google's Search Console. You can skip all these steps and just sync your account to your Bing account for Bing's Webmaster Tools.`
+
+2. If you haven't already added your website to Bing Webmaster Tools, click the `"Add a Site"` button and follow the prompts to verify ownership.
+
+3. Once you have your sitemap ready, go to the `"Sitemaps"` page in Bing Webmaster Tools. Click the `"Submit a Sitemap"` button and enter the URL of your sitemap.
+
+4. Bing Webmaster Tools will ask you to verify your sitemap. Follow the instructions to verify your sitemap.
+
+5. After you have submitted your sitemap, Bing will crawl and index the pages in your sitemap. Monitor your sitemap regularly to ensure that Bing is able to access your pages and that there are no errors or issues with your sitemap.
+
+Remember that submitting a sitemap to Bing Webmaster Tools is just one part of an effective SEO strategy. You should also focus on creating high-quality content and building high-quality backlinks to your website. Alternatively, if you have a community to interact with they are by themselves good marketers as usually you find with communities. Members of that community create quality backlinks which give you completely free organic results to your website. An example of this situation can be found below. 
+
+### Backlinks Created By The Community (A Personal Experience)
+
+On February 19, 2023, I posted a case study on the very popular AI Detection program called GPTZero. This case study labeled ["GPTZero Case Study (Exploring False Positives)"](https://gonzoknows.com/posts/GPTZero-Case-Study/) blew up overnight and was posted by a community member to Ycombinator News, which received hundreds of comments and thousands of views. Here's the thing that really displays the power of the community. Ycombinator News isn't just one website, it's distributed amongst various social media platforms such as Twitter, Reddit and various news organizations including Flipboard. That means once this post made it to the top of Ycombinator news, literally number 1 on the whole site. It was cross posted to Twitter, Reddit and various news sites. It even made its way to Flipboard on various topics. Now, since all these other platforms carry very high SEO rankings, it only boosted my site's SEO ranking up more. Overall, this is why no matter what business industry you're in, it's important to interact with your community as they are the ones you will only bring you more business. 
+
+## Mwmbl Search (Advanced Users ONLY!)
+Mwmbl search is a rather new & under current development. Although, since, I wanted my website to be indexed on this non-profit search engine. I started looking into how I could crawl my own website. When I say this is a tutorial for advanced users, I really mean it, as we are going to be using a terminal window and GitHub. So if you are uncomfortable with that, you can simply send me a DM [here](https://simplex.chat/contact#/?v=1-2&smp=smp%3A%2F%2F0YuTwO05YJWS8rkjn9eLJDjQhFKvIYd8d4xG8X1blIU%3D%40smp8.simplex.im%2F4dgDprEeyoZrmJCgU2GBv7zIIvjSg4Qt%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAxLm3lJtPPwoIE3e-4eS2348cbjMIaVqEqVLDUDz0NDc%253D%26srv%3Dbeccx4yfxxbvyhqypaavemqurytl6hozr47wfc7uuecacjqdvwpw2xid.onion) followed by your website URL and I will crawl it for you. 
+
+`For the duration of this tutorial, I will be using VanillaOS a Linux based operating system. Meaning my commands to interact with the terminal might be different from your own operating system, though the steps remain the same.`
+
+1. Open `Console` or `Terminal`
+2. Enter an Ubuntu managed container by typing `"apx enter"` and press enter
+3. After you have cloned the [crawler-script](https://github.com/mwmbl/crawler-script) simply CD into the repo `"cd crawler-script"`
+4. Enter poetry shell by typing `"poetry shell"`
+5. Once you have been loaded into poetry shell, lastly type your website as follows `"python main.py -j 3 -u https://yourwebsite.com --site https://yourwebsite.com"`
+
