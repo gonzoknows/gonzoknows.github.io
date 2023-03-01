@@ -1,5 +1,5 @@
 ---
-title: Best Yattee Custom Locations (Updated 1/18/23)
+title: Best Yattee Custom Locations
 date: 2023-01-18 15:00:00 -0800
 categories: [YouTube, Yattee]
 tags: [yattee, youtube, sponsorblock] #tags should always be lowercase
