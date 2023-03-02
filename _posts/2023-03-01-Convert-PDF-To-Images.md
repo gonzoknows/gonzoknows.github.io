@@ -7,7 +7,7 @@ tags: [pdf, images, gimp]                   #tags should always be lowercase
 
 ## Introduction
 
-Sometimes you may need to convert a PDF to an image PDF, which is a PDF file that contains images instead of text displayed over images. This can be useful for a variety of reasons, such as when you want to preserve the formatting of the original PDF or when you want to share the PDF with others who may not have the same fonts installed on their computer. Even to prevent getting falsely accused of plagiarizing with AI software, more info on that topic can be found [here](https://gonzoknows.com/posts/GPTZero-Case-Study/).
+Sometimes you may need to convert a PDF to an image PDF, which is a PDF file that contains images instead of text displayed over images. This can be useful for a variety of reasons, such as when you want to preserve the formatting of the original PDF or when you want to share the PDF with others who may not have the same fonts installed on their computer. This can also be used to prevent getting falsely accused of plagiarizing with AI software, more info on that topic can be found [here](https://gonzoknows.com/posts/GPTZero-Case-Study/).
 
 Fortunately, GIMP, the popular open-source image editing software, can be used to easily convert a PDF to an image PDF. Here's how to do it:
 
