@@ -1,6 +1,6 @@
 ---
 title: Transvribe - Educational AI for Youtube Transcripts
-date: 2023-03-01 15:00:00 -0800
+date: 2023-03-03 05:00:00 -0800
 categories: [Artificial Intelligence, AI]
 tags: [youtube, transcripts, ai]                   #tags should always be lowercase
 ---
