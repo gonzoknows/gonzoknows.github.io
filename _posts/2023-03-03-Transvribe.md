@@ -1,5 +1,5 @@
 ---
-title: Transvribe - Educational AI for Youtube Transcripts
+title: Transvribe - Educational AI for Youtube
 date: 2023-03-03 05:00:00 -0800
 categories: [Artificial Intelligence, AI]
 tags: [youtube, transcripts, ai]                   #tags should always be lowercase
@@ -14,6 +14,6 @@ Transvribe allows users to paste a YouTube URL and start asking questions. This 
 
 To get started with Transvribe, simply visit the website. 
 
-[transvribe.com](https://www.transvribe.com/?ref=gonzoknows.com)
+[Transvribe.com](https://www.transvribe.com/?ref=gonzoknows.com)
 
 From there, you will need to paste the URL for the video, then you can begin asking questions, and taking notes right within the platform.
