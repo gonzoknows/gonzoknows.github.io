@@ -23,6 +23,6 @@ Accessing zlibrary is just as easy as it used to be, all a user has to do is nav
 
 `Note - when signing up, your personal email isn't required. It's not one I recommend using anyway. To avoid using your personal email, you can use any temporary email service on the web by searching "temp email" or consider getting a membership with Simplelogin which I personally use` [Simplelogin](https://simplelogin.io?slref=jacobgonzales) - Receive and send emails anonymously. With email aliases, you can be anonymous online and protect your inbox against spams and phishing.
 
-### YouTube Guide
+### Video Guide
 
-[![zlibrary is back!](https://img.youtube.com/vi/JFfSAbFMd7A/0.jpg)](https://www.youtube.com/watch?v=JFfSAbFMd7A "how to access zlibrary from the clearweb")
+[![zlibrary is back!](https://tilvids.com/lazy-static/previews/0aaeb4bd-35cb-4cd0-a18c-c53a10f1b26b.jpg)](https://tilvids.com/w/wXsxT3Lwq2jjUQXe2ugswF "how to access zlibrary from the clearweb")
