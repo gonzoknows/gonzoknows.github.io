@@ -1,5 +1,5 @@
 ---
-title: ChatGPT 4 vs AI Detection
+title: GPT-4 vs AI Detection
 date: 2023-03-14 12:00:00 -0800
 categories: [Artificial Intelligence, AI Detection]
 tags: [gptzero, gpt4, ai]                   #tags should always be lowercase
