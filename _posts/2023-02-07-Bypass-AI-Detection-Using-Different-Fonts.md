@@ -41,6 +41,6 @@ Here's a short, simple guide to bypassing many popular ChatGPT detection softwar
     ![Font Changer Bypassed GPTZero](/assets/img/font%20changer/font%20changer%20undetected%20font.png)
     `Note: this font used to bypass GPTZero is called "Italic"`
 
-### YouTube Video Guide
+### Video Guide
 
-[![How to bypass GPTZero](https://img.youtube.com/vi/YCOaeaH_jGo/0.jpg)](https://www.youtube.com/watch?v=YCOaeaH_jGo "Bypassing GPTZero using a font changer")
+[![How to bypass GPTZero](https://tilvids.com/lazy-static/previews/da66b5b4-4c3b-4500-8c3f-c0d136a375ec.jpg)](https://tilvids.com/w/1g6KoCsEXW96toQMX4hzky "Bypassing GPTZero using a font changer")
