@@ -8,7 +8,7 @@ tags: [gptzero, gpt4, ai]                   #tags should always be lowercase
 ## GPT-4 
 `"GPT-4 can solve difficult problems with greater accuracy, thanks to its broader general knowledge and advanced reasoning capabilities."` - OpenAI
 
-## GPT-4 
+## GPT-4 Test
 In this test I'll be using [Poe AI](https://poe.com/) to access GPT-4 for free as currently at the time of writing it is a paid GPT model. 
 
 ### GPT-4 Initial Prompt 
