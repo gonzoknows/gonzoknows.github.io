@@ -5,13 +5,13 @@ categories: [Artificial Intelligence, AI Detection]
 tags: [gptzero, gpt4, ai]                   #tags should always be lowercase
 ---
 
-## GPT4 
+## GPT-4 
 `"GPT-4 can solve difficult problems with greater accuracy, thanks to its broader general knowledge and advanced reasoning capabilities."` - OpenAI
 
-## GPT4 vs AI Detection 
+## GPT-4 vs AI Detection 
 In this test I'll be using [Poe AI](https://poe.com/) to access GPT-4 for free as currently at the time of writing it is a paid GPT model. 
 
-### GPT4 Initial Response 
+### GPT-4 Initial Response 
 The initial prompt is as follows 
 ~~~
 Explain quantum computing in simple terms with high perplexity and burstiness in your tone of writing. Write at college level with an writing style of a professor.
@@ -35,7 +35,7 @@ In conclusion, my esteemed colleagues, quantum computing is an enigma wrapped in
 
 ![Image shows gpt4 response given by poe ai](/assets/img/gpt%204%20vs%20ai%20detection/gpt4.png)
 
-### GPT4 AI Detection 
+### GPT-4 AI Detection 
 The AI detection of choice for this test will be [GPTZero](https://gptzero.me/) as they claim to be `"The World's #1 AI Detector"`.
 
 ![Image shows gpt4 response vs gptzero ai detection](/assets/img/gpt%204%20vs%20ai%20detection/gptzero.png)
